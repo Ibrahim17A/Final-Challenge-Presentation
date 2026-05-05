@@ -78,6 +78,10 @@ https://github.com/Ibrahim17A/Quiz-Challenge-1
 
 https://github.com/Ibrahim17A/Quiz-Challenge-2
 
+### Combined Quiz Challenges
+
+https://github.com/Ibrahim17A/Final-Challenge-Presentation
+
 ## Demo Videos
 
 ### Quiz Challenge I
