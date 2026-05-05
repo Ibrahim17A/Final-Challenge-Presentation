@@ -29,3 +29,84 @@ CS5542-Final-Showcase/
 ├── quiz-challenge-1/
 ├── quiz-challenge-2/
 └── assets/
+
+## Included Projects
+
+### 1. Quiz Challenge I
+
+Folder: `quiz-challenge-1/`
+
+Main contents:
+- project README
+- notebook/code
+- generated product image outputs
+- evaluation/results files
+- requirements or libraries used
+
+### 2. Quiz Challenge II
+
+Folder: `quiz-challenge-2/`
+
+Main contents:
+- project README
+- notebook/code
+- transcript, summary, action items, and keyword outputs
+- requirements or libraries used
+
+## Final Presentation
+
+The final combined presentation is included in this repository:
+
+- `Final_Showcase_Presentation.pptx`
+
+This presentation summarizes:
+- the problem each project solved
+- the input/data used
+- the approach and models
+- the strongest results
+- key findings and limitations
+- technical growth across both projects
+
+## GitHub Repositories for Original Projects
+
+### Quiz Challenge I
+
+https://github.com/Ibrahim17A/Quiz-Challenge-1
+
+### Quiz Challenge II
+
+https://github.com/Ibrahim17A/Quiz-Challenge-2
+
+## Demo Videos
+
+### Quiz Challenge I
+
+https://youtu.be/ELXB5Kzanhc
+
+### Quiz Challenge II
+
+https://youtu.be/ze_XmmZESyo
+
+## Key Takeaways
+
+Across both projects, I learned how foundation models can be applied to very different types of inputs:
+- **image generation** using Stable Diffusion and prompt engineering
+- **speech intelligence** using Whisper for transcription and structured output generation
+
+These projects also helped me improve in:
+- designing better inputs
+- comparing baseline vs improved results
+- evaluating model outputs
+- organizing AI projects for presentation and GitHub submission
+
+## AI Tool Disclosure
+
+AI tools were used for planning, writing support, code guidance, and presentation preparation.
+
+Tools used included:
+- ChatGPT
+- Google Colab
+- Stable Diffusion
+- OpenAI Whisper Small
+
+All final outputs, comparisons, organization, and presentation materials were reviewed and prepared by the student.
