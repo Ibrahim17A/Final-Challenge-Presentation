@@ -29,6 +29,7 @@ CS5542-Final-Showcase/
 ├── quiz-challenge-1/
 ├── quiz-challenge-2/
 └── assets/
+```
 
 ## Included Projects
 
